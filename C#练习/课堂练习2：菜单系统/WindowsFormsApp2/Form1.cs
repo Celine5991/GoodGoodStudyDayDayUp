@@ -85,7 +85,7 @@ namespace WindowsFormsApp2
                 listBox1.Items.Remove(listBox1.SelectedItem);
             }
             else
-                MessageBox.Show("请选择要删除的菜名！");
+                MessageBox.Show("请选择要删除的菜名！！");
         }
     }
 }
